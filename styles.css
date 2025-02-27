@@ -1,0 +1,45 @@
+body {
+    background-color: #ADD8E6; /* ღია ცისფერი */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+
+main {
+    padding: 20px;
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
